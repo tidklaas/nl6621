@@ -1,0 +1,11 @@
+[submodule "src/atomthreads"]
+	path = src/atomthreads
+	url = https://github.com/tidklaas/atomthreads.git
+	branch = nl6621
+[submodule "src/libopencm3"]
+	path = src/libopencm3
+	url = https://github.com/tidklaas/libopencm3.git
+	branch = nl6621
+[submodule "src/nufront_sdk"]
+	path = src/nufront_sdk
+	url = https://github.com/NufrontIOT/NL6621_StandardSDK
